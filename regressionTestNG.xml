@@ -1,0 +1,9 @@
+<suite name = "Design Pattern tetsing">
+	<test name ="Open Browser">
+		<classes>
+			<class name = "singletonpattern.youtubePage"></class>
+			<class name = "singletonpattern.PageTest"></class>
+		</classes>
+		
+	</test>
+</suite>

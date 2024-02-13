@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Design Pattern tetsing]">
+  <test thread-count="5" name="Open Browser(failed)">
+    <classes>
+      <class name="singletonpattern.PageTest">
+        <methods>
+          <include name="testMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- singletonpattern.PageTest -->
+    </classes>
+  </test> <!-- Open Browser(failed) -->
+</suite> <!-- Failed suite [Design Pattern tetsing] -->
